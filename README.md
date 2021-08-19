@@ -1,1 +1,7 @@
-# express-boilerplate
+# ExpressJS Boilerplate
+
+## Usage
+
+```
+npm start
+```
