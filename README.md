@@ -1,7 +1,4 @@
 # ExpressJS Boilerplate
 
-## Usage
-
-```
-npm start
-```
+- Javascript
+- Typescript
